@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+table,tr,td{
+	border: 1px solid black;
+}
+.first ,.third{
+	width:200px;
+}
+.second{
+	width:600px;
+}
+img{
+	display:block;
+	height:100px;
+	width:100px;
+}
